@@ -1,7 +1,6 @@
-
- <!-- <p align="center">
-  <img src="number6.gif" alt="Demonstração" width="100%" height="200"/>
-</p> -->
+<div align="center">
+  <img src="number6.gif" width="100%" alt="PC animation" />
+</div>
 
 <h1 align="center">I'm Logan, make yourself at home 🙏</h1>
 
